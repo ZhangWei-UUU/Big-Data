@@ -2,6 +2,7 @@
   "name": "big-data",
   "version": "0.1.1",
   "private": true,
+  "proxy":"http://apis.juhe.cn/qrcode",
   "dependencies": {
     "antd": "3.5.2",
     "autoprefixer": "7.1.6",
